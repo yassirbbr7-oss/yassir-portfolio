@@ -19,31 +19,31 @@ $ateliers = [
     ['M207', 'Projet de synthèse', 'Réunir les acquis de la formation dans un projet complet.'],
 ];
 // Ajoutez les vrais liens de vos travaux ici, par module.
-// Exemple à remplacer : ['titre' => 'Atelier 1 : mon travail', 'url' => 'https://...']
+// Exemple à remplacer : ['titre' => 'Atelier 1 :    mon travail', 'url' => 'https://...']
 $travaux = [
     'M201' => [
-        ['titre' => 'Énoncé — Quick Annonces : méthodes classiques', 'url' => '<a href="\docs/atelier-1-quick-annonces.pdf" target="_blank" rel="noopener noreferrer">Télécharger le PDF</a>'],
-        ['titre' => 'Cours — Conception orientée objet avec UML', 'url' => '<a href="\docs/cours-uml.pptx" target="_blank" rel="noopener noreferrer">Télécharger le PPTX</a>'],
-        ['titre' => 'Étude UML — Fabrication de composants de moteurs', 'url' => '<a href="\docs/uml-production-moteurs.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
-        ['titre' => 'Étude UML 1 — Bibliothèque intranet', 'url' => '<a href="\docs/uml-cas-1.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
-        ['titre' => 'Étude UML 2 — Centre de formation', 'url' => '<a href="\docs/uml-cas-2.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
-        ['titre' => 'Étude UML — Gestion des stages', 'url' => '<a href="\docs/uml-cas-3.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
-        ['titre' => 'Gestion des stages — Version 1', 'url' => '<a href="\docs/uml-cas-3-version-1.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
-        ['titre' => 'Gestion des stages — Version 2', 'url' => '<a href="\docs/uml-cas-3-version-2.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
-        ['titre' => 'Étude UML 4 — Commandes BRICOABC', 'url' => '<a href="\docs/uml-cas-4.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
-        ['titre' => 'Étude UML 5 — Bibliothèque municipale', 'url' => '<a href="\docs/uml-cas-5.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
-        ['titre' => 'Étude UML 6 — Académie et collèges', 'url' => '<a href="\docs/uml-cas-6.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
-        ['titre' => 'Présentation — Figma', 'url' => '<a href="\docs/figma-cours.pptx" target="_blank" rel="noopener noreferrer">Télécharger le PPTX</a>'],
-        ['titre' => 'Présentation — Manipulation des formes', 'url' => '<a href="\docs/figma-formes.pptx" target="_blank" rel="noopener noreferrer">Télécharger le PPTX</a>'],
-        ['titre' => 'Présentation — Création des maquettes avec Figma', 'url' => '<a href="\docs/figma-maquettes.pptx" target="_blank" rel="noopener noreferrer">Télécharger le PPTX</a>'],
-        ['titre' => 'Organisation du groupe 2 — Yassir : outils de transformation', 'url' => '<a href="\docs/figma-groupe-2.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
-        ['titre' => 'Répartition des présentations Figma', 'url' => '<a href="\docs/figma-repartition.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
+        ['titre' => 'Énoncé — Quick Annonces : méthodes classiques', 'url' => '<a href="/docs/atelier-1-quick-annonces.pdf" target="_blank" rel="noopener noreferrer">Télécharger le PDF</a>'],
+        ['titre' => 'Cours — Conception orientée objet avec UML', 'url' => '<a href="/docs/cours-uml.pptx" target="_blank" rel="noopener noreferrer">Télécharger le PPTX</a>'],
+        ['titre' => 'Étude UML — Fabrication de composants de moteurs', 'url' => '<a href="/docs/uml-production-moteurs.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
+        ['titre' => 'Étude UML 1 — Bibliothèque intranet', 'url' => '<a href="/docs/uml-cas-1.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
+        ['titre' => 'Étude UML 2 — Centre de formation', 'url' => '<a href="/docs/uml-cas-2.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
+        ['titre' => 'Étude UML — Gestion des stages', 'url' => '<a href="/docs/uml-cas-3.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
+        ['titre' => 'Gestion des stages — Version 1', 'url' => '<a href="/docs/uml-cas-3-version-1.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
+        ['titre' => 'Gestion des stages — Version 2', 'url' => '<a href="/docs/uml-cas-3-version-2.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
+        ['titre' => 'Étude UML 4 — Commandes BRICOABC', 'url' => '<a href="/docs/uml-cas-4.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
+        ['titre' => 'Étude UML 5 — Bibliothèque municipale', 'url' => '<a href="/docs/uml-cas-5.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
+        ['titre' => 'Étude UML 6 — Académie et collèges', 'url' => '<a href="/docs/uml-cas-6.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
+        ['titre' => 'Présentation — Figma', 'url' => '<a href="/docs/figma-cours.pptx" target="_blank" rel="noopener noreferrer">Télécharger le PPTX</a>'],
+        ['titre' => 'Présentation — Manipulation des formes', 'url' => '<a href="docs/figma-formes.pptx" target="_blank" rel="noopener noreferrer">Télécharger le PPTX</a>'],
+        ['titre' => 'Présentation — Création des maquettes avec Figma', 'url' => '<a href="docs/figma-maquettes.pptx" target="_blank" rel="noopener noreferrer">Télécharger le PPTX</a>'],
+        ['titre' => 'Organisation du groupe 2 — Yassir : outils de transformation', 'url' => '<a href="docs/figma-groupe-2.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
+        ['titre' => 'Répartition des présentations Figma', 'url' => '<a href="docs/figma-repartition.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
 
     ],
     'M202' => [
-        ['titre' => 'Cours — Gestion de projet agile et Scrum', 'url' => '<a href="\docs/cours-agile.pptx" target="_blank" rel="noopener noreferrer">Télécharger le PPTX</a>'],
-        ['titre' => 'Atelier 2 — Gestion de projet agile', 'url' => '<a href="\docs/atelier-2-agile.pdf" target="_blank" rel="noopener noreferrer">Télécharger le PDF</a>'],
-        ['titre' => 'Atelier 2 — Gestion de projet agile (version corrigée)', 'url' => '<a href="\docs/atelier-2-agile-corrige.pdf" target="_blank" rel="noopener noreferrer">Télécharger le PDF</a>'],
+        ['titre' => 'Cours — Gestion de projet agile et Scrum', 'url' => '<a href="/docs/cours-agile.pptx" target="_blank" rel="noopener noreferrer">Télécharger le PPTX</a>'],
+        ['titre' => 'Atelier 2 — Gestion de projet agile', 'url' => '<a href="/docs/atelier-2-agile.pdf" target="_blank" rel="noopener noreferrer">Télécharger le PDF</a>'],
+        ['titre' => 'Atelier 2 — Gestion de projet agile (version corrigée)', 'url' => '<a href="/docs/atelier-2-agile-corrige.pdf" target="_blank" rel="noopener noreferrer">Télécharger le PDF</a>'],
 
     ],
     'M203' => [
