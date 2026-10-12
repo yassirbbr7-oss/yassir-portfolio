@@ -32,7 +32,8 @@ $travaux = [
         ['titre' => 'Gestion des stages — Version 2', 'url' => '<a href="/docs/uml-cas-3-version-2.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
         ['titre' => 'Étude UML 4 — Commandes BRICOABC', 'url' => '<a href="/docs/uml-cas-4.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
         ['titre' => 'Étude UML 5 — Bibliothèque municipale', 'url' => '<a href="/docs/uml-cas-5.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
-        ['titre' => 'Étude UML 6 — Académie et collèges', 'url' => '<a href="/docs/uml-cas-6.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
+        ['titre' => 'Étude UML 6 — Académie 
+        et collèges', 'url' => '<a href="/docs/uml-cas-6.docx" target="_blank" rel="noopener noreferrer">Télécharger le DOCX</a>'],
         ['titre' => 'Présentation — Figma', 'url' => '<a href="/docs/figma-cours.pptx" target="_blank" rel="noopener noreferrer">Télécharger le PPTX</a>'],
         ['titre' => 'Présentation — Manipulation des formes', 'url' => '<a href="docs/figma-formes.pptx" target="_blank" rel="noopener noreferrer">Télécharger le PPTX</a>'],
         ['titre' => 'Présentation — Création des maquettes avec Figma', 'url' => '<a href="docs/figma-maquettes.pptx" target="_blank" rel="noopener noreferrer">Télécharger le PPTX</a>'],
