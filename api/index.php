@@ -71,7 +71,7 @@ $travaux = [
         'titre' => 'TP 2 — Gestion des bases de données',
         'url' => '/docs/tp2-gdbd.pdf'
     ],
-],,
+],
     'M204' => [
     ],
     'M205' => [
