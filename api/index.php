@@ -39,6 +39,22 @@ $travaux = [
         ['titre' => 'Présentation — Création des maquettes avec Figma', 'url' => '/docs/' . rawurlencode('Création de Maquettes avec Figma.pptx_20260930_211002_٠٠٠٠.pptx')],
         ['titre' => 'Organisation du groupe 2 — Yassir : outils de transformation', 'url' => '/docs/' . rawurlencode('Plan_de_repartition_Groupe_2_Figma.docx')],
         ['titre' => 'Répartition des présentations Figma', 'url' => '/docs/' . rawurlencode('Repartition_presentations_Figma.docx')],
+        [
+    'titre' => 'Atelier 3 — Git',
+    'url' => '/docs/At3_git.pdf'
+],
+[
+    'titre' => 'Atelier 4 — GitHub',
+    'url' => '/docs/At4_github.pdf'
+],
+[
+    'titre' => 'Atelier 5 — GitHub',
+    'url' => '/docs/At5_github.pdf'
+],
+[
+    'titre' => 'Atelier 6 — GitHub',
+    'url' => '/docs/At6_github.pdf'
+],
 
     ],
     'M202' => [
@@ -46,8 +62,16 @@ $travaux = [
         ['titre' => 'Atelier 2 — Gestion de projet agile', 'url' => '/docs/' . rawurlencode('At2_gestionprojet.pdf')],
 
     ],
-    'M203' => [
+    'M103' => [
+    [
+        'titre' => 'TP 1 — Gestion des bases de données',
+        'url' => '/docs/tp1-gdbd.pdf'
     ],
+    [
+        'titre' => 'TP 2 — Gestion des bases de données',
+        'url' => '/docs/tp2-gdbd.pdf'
+    ],
+],,
     'M204' => [
     ],
     'M205' => [
