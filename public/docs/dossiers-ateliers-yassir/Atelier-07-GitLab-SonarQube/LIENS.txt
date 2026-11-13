@@ -1,0 +1,2 @@
+GitLab : https://gitlab.com/mawjoud-group/Mawjoud-project
+SonarQube : https://sonarcloud.io/organizations/mawjoud-group/projects

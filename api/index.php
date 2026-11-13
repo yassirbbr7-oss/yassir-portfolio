@@ -24,21 +24,7 @@ $travaux = [
     'M201' => [
         ['titre' => 'Énoncé — Quick Annonces : méthodes classiques', 'url' => '/docs/' . rawurlencode('At1_gestionprojet.pdf')],
         ['titre' => 'Cours — Conception orientée objet avec UML', 'url' => '/docs/' . rawurlencode('COO UML.pdf')],
-        ['titre' => 'Étude UML — Fabrication de composants de moteurs', 'url' => '/docs/' . rawurlencode('Etude de cas N°3.docx')],
-        ['titre' => 'Étude UML 1 — Bibliothèque intranet', 'url' => '/docs/' . rawurlencode('Etude de cas UML N°1.docx')],
-        ['titre' => 'Étude UML 2 — Centre de formation', 'url' => '/docs/' . rawurlencode('Étude de cas UML N°2.docx')],
-        ['titre' => 'Étude UML — Gestion des stages', 'url' => '/docs/' . rawurlencode('Etude de cas UML N°3.docx')],
-        ['titre' => 'Gestion des stages — Version 1', 'url' => '/docs/' . rawurlencode('Etude de cas UML N°3 (1).docx')],
-        ['titre' => 'Gestion des stages — Version 2', 'url' => '/docs/' . rawurlencode('Etude de cas UML N°3 (2).docx')],
-        ['titre' => 'Étude UML 4 — Commandes BRICOABC', 'url' => '/docs/' . rawurlencode('Etude de cas UML N°4.docx')],
-        ['titre' => 'Étude UML 5 — Bibliothèque municipale', 'url' => '/docs/' . rawurlencode('Etude de cas UML N°5.docx')],
-        ['titre' => 'Étude UML 6 — Académie 
-        et collèges', 'url' => '/docs/' . rawurlencode('Etude de cas UML N°6.docx')],
-        ['titre' => 'Présentation — Figma', 'url' => '/docs/' . rawurlencode('Figma.pptx')],
-        ['titre' => 'Présentation — Manipulation des formes', 'url' => '/docs/' . rawurlencode('Manipulation des formes_20260927_173604_٠٠٠٠.pptx')],
-        ['titre' => 'Présentation — Création des maquettes avec Figma', 'url' => '/docs/' . rawurlencode('Création de Maquettes avec Figma.pptx_20260930_211002_٠٠٠٠.pptx')],
-        ['titre' => 'Organisation du groupe 2 — Yassir : outils de transformation', 'url' => '/docs/' . rawurlencode('Plan_de_repartition_Groupe_2_Figma.docx')],
-        ['titre' => 'Répartition des présentations Figma', 'url' => '/docs/' . rawurlencode('Repartition_presentations_Figma.docx')],
+
         [
     'titre' => 'Atelier 3 — Git',
     'url' => '/docs/At3_git.pdf'

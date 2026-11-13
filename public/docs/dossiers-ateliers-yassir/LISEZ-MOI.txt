@@ -1,0 +1,22 @@
+DOSSIERS DES ATELIERS - YASSIR
+
+Chaque dossier contient l’énoncé et, lorsqu’il a été préparé, le corrigé,
+le compte rendu ou le guide technique correspondant.
+Les noms des PDF correspondent aux liens du dernier index.php.
+
+INSTALLATION DANS LE PORTFOLIO EXISTANT
+1. Copier tous les PDF des sept dossiers dans public/docs/ (sans sous-dossiers).
+2. Remplacer api/index.php par le fichier inclus dans api/.
+3. Faire un commit puis un push.
+4. Consulter chaque lien après le redéploiement.
+
+Ce ZIP est un complément au portfolio existant, pas un site complet.
+Conserver les autres fichiers de votre dépôt.
+
+ATELIER 2
+Le dossier contient l’énoncé et les liens du projet. Aucun corrigé PDF
+spécifique à cet atelier n’a été créé dans cette conversation.
+
+ATELIER 7
+Le guide comporte cinq captures originales commentées de Mawjoud.
+Le lien SonarQube ouvre les projets de l’organisation mawjoud-group.
