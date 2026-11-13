@@ -275,3 +275,4 @@ if(!reduced.matches&&'IntersectionObserver' in window){
 reduced.addEventListener('change',()=>{if(reduced.matches){document.querySelectorAll('.tilt').forEach(el=>el.style.transform='');document.querySelectorAll('.reveal-ready').forEach(el=>el.classList.add('visible'));}});
 </script>
 </body></html>
+    
